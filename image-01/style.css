@@ -85,7 +85,6 @@ button {
     margin-bottom: 40px;
     margin-left: 200px;
     margin-right: 200px;
-
     display: flex;
     flex-direction: column;
     justify-content: space-between;
