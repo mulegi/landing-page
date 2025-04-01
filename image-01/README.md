@@ -1,0 +1,1 @@
+This is a full webpage design primarily focusing on placing defferent elements in their respective positions.
